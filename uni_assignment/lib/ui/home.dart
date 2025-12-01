@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:uni_assignment/ui/profile.dart';
-import 'package:uni_assignment/setting.dart';
+import 'package:uni_assignment/ui/setting.dart';
 import 'summary.dart';
 import 'homepage.dart';
 
